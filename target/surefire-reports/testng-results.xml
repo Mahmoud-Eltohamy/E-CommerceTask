@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T05:57:13 EEST" name="Suite" finished-at="2024-08-03T05:58:02 EEST" duration-ms="49006">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T05:57:13 EEST" name="Test" finished-at="2024-08-03T05:58:02 EEST" duration-ms="49006">
+      <class name="com.automationexercise.tests.TestCase5">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.tests.TestCase5@13da7ab0]" started-at="2024-08-03T05:57:55 EEST" name="setup" finished-at="2024-08-03T05:58:01 EEST" duration-ms="5364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerUserWithExistingEmail()[pri:0, instance:com.automationexercise.tests.TestCase5@13da7ab0]" started-at="2024-08-03T05:58:01 EEST" name="registerUserWithExistingEmail" description="Test Case 5: Register User with existing email" finished-at="2024-08-03T05:58:02 EEST" duration-ms="1091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUserWithExistingEmail -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.tests.TestCase5@13da7ab0]" started-at="2024-08-03T05:58:02 EEST" name="tearDown" finished-at="2024-08-03T05:58:02 EEST" duration-ms="689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.tests.TestCase5 -->
+      <class name="com.automationexercise.tests.TestCase3">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.tests.TestCase3@700f518a]" started-at="2024-08-03T05:57:39 EEST" name="setup" finished-at="2024-08-03T05:57:44 EEST" duration-ms="4534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginUserWithIncorrectEmailAndPassword()[pri:0, instance:com.automationexercise.tests.TestCase3@700f518a]" started-at="2024-08-03T05:57:44 EEST" name="loginUserWithIncorrectEmailAndPassword" description="Test Case 3: Login User with incorrect email and password" finished-at="2024-08-03T05:57:46 EEST" duration-ms="1827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserWithIncorrectEmailAndPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.tests.TestCase3@700f518a]" started-at="2024-08-03T05:57:46 EEST" name="tearDown" finished-at="2024-08-03T05:57:46 EEST" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.tests.TestCase3 -->
+      <class name="com.automationexercise.tests.TestCase4">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.tests.TestCase4@b835727]" started-at="2024-08-03T05:57:46 EEST" name="setup" finished-at="2024-08-03T05:57:51 EEST" duration-ms="4513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logoutUser()[pri:0, instance:com.automationexercise.tests.TestCase4@b835727]" started-at="2024-08-03T05:57:51 EEST" name="logoutUser" description="Test Case 4: Logout User" finished-at="2024-08-03T05:57:54 EEST" duration-ms="3525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.tests.TestCase4@b835727]" started-at="2024-08-03T05:57:54 EEST" name="tearDown" finished-at="2024-08-03T05:57:55 EEST" duration-ms="690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.tests.TestCase4 -->
+      <class name="com.automationexercise.tests.TestCase1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.tests.TestCase1@11b455e5]" started-at="2024-08-03T05:57:13 EEST" name="setup" finished-at="2024-08-03T05:57:19 EEST" duration-ms="6011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerUser()[pri:0, instance:com.automationexercise.tests.TestCase1@11b455e5]" started-at="2024-08-03T05:57:19 EEST" name="registerUser" description="Test Case 1: Register User" finished-at="2024-08-03T05:57:30 EEST" duration-ms="10728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.tests.TestCase1@11b455e5]" started-at="2024-08-03T05:57:30 EEST" name="tearDown" finished-at="2024-08-03T05:57:31 EEST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.tests.TestCase1 -->
+      <class name="com.automationexercise.tests.TestCase2">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.automationexercise.tests.TestCase2@47af099e]" started-at="2024-08-03T05:57:31 EEST" name="setup" finished-at="2024-08-03T05:57:35 EEST" duration-ms="4596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginUserWithCorrectEmailAndPassword()[pri:0, instance:com.automationexercise.tests.TestCase2@47af099e]" started-at="2024-08-03T05:57:35 EEST" name="loginUserWithCorrectEmailAndPassword" description="Test Case 2: Login User with correct email and password" finished-at="2024-08-03T05:57:39 EEST" duration-ms="3141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserWithCorrectEmailAndPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationexercise.tests.TestCase2@47af099e]" started-at="2024-08-03T05:57:39 EEST" name="tearDown" finished-at="2024-08-03T05:57:39 EEST" duration-ms="766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationexercise.tests.TestCase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
